@@ -1,5 +1,8 @@
 # Analyzing Immigration Discourse: A Comparative Study of Language Usage by Right-Wing and Left-Wing Parties in the UK Using the ParlaMint Dataset
 
+## Abstract
+This research explores sentiment dynamics in UK parliamentary debates on immigration, utilizing the ParlaMint corpus. We employ sentiment analysis tools like Flair and SetFit to investigate differences in sentiment expression between left-wing and right-wing parties. Our analysis focuses on extracting speeches, annotating them, and performing both whole speech and sentence-level sentiment analysis. Key immigration-related keywords guide the extraction and filtering of texts to assess sentiment polarity. The study aims to identify significant sentiment differences between political affiliations and the words shaping these sentiments. Our findings are expected to contribute to understanding the rhetorical framing of immigration within the context of UK parliamentary discourse, reflecting broader political and social implications.
+
 ## Files
 ### Not Provided
 Some data are not provided because the size is too big, and we can reproduce it by running the google colab :). For examples:
